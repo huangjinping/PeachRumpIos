@@ -1,0 +1,35 @@
+PODS:
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Ono (1.2.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.5.3)
+  - Ono
+
+SPEC CHECKSUMS:
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  Ono: 80b1c686777d3f6d5d5ce6fcac8a74afef4ca197
+
+PODFILE CHECKSUM: 70c6fb8b165135e518353ac8771b5c05c1658b34
+
+COCOAPODS: 1.2.0
